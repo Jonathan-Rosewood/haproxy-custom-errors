@@ -1,3 +1,5 @@
+![preview](https://media.giphy.com/media/3ohhwfW9OgNMwDLZra/giphy.gif)
+
 # Haproxy Custom Errors
 Custom http error pages for haproxy
 
