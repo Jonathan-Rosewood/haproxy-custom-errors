@@ -7,7 +7,7 @@ Content-Type: text/html
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>404 Not found</title>
+    <title>400 Bad request</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" integrity="sha256-HxaKz5E/eBbvhGMNwhWRPrAR9i/lG1JeT4mD6hCQ7s4=" crossorigin="anonymous" />
     <style>body{background:#18121A;font-family:Varela,sans-serif}body,html{margin:0;padding:0;width:100%;height:100%;display:table}.wrapper{display:table-cell;vertical-align:middle}.glitch{color:#fff;font-size:100px;position:relative;width:640px;margin:0 auto}.glitch:after,.glitch:before{content:attr(data-text);position:absolute;top:0;color:#fff;background:#18121A;overflow:hidden}@keyframes noise-anim{0%{clip:rect(44px,9999px,32px,0)}5%{clip:rect(70px,9999px,10px,0)}10%{clip:rect(81px,9999px,10px,0)}15.0%{clip:rect(77px,9999px,64px,0)}20%{clip:rect(24px,9999px,87px,0)}25%{clip:rect(40px,9999px,65px,0)}30.0%{clip:rect(87px,9999px,90px,0)}35%{clip:rect(50px,9999px,14px,0)}40%{clip:rect(100px,9999px,19px,0)}45%{clip:rect(16px,9999px,7px,0)}50%{clip:rect(17px,9999px,91px,0)}55.0%{clip:rect(84px,9999px,2px,0)}60.0%{clip:rect(36px,9999px,9px,0)}65%{clip:rect(66px,9999px,3px,0)}70%{clip:rect(25px,9999px,69px,0)}75%{clip:rect(72px,9999px,67px,0)}80%{clip:rect(28px,9999px,40px,0)}85.0%{clip:rect(6px,9999px,80px,0)}90%{clip:rect(58px,9999px,42px,0)}95%{clip:rect(22px,9999px,87px,0)}100%{clip:rect(97px,9999px,58px,0)}}.glitch:after{left:2px;text-shadow:-2px 0 red;clip:rect(0,900px,0,0);animation:noise-anim 2s infinite linear alternate-reverse}@keyframes noise-anim-2{0%{clip:rect(66px,9999px,73px,0)}5%{clip:rect(31px,9999px,97px,0)}10%{clip:rect(91px,9999px,84px,0)}15.0%{clip:rect(51px,9999px,72px,0)}20%{clip:rect(79px,9999px,33px,0)}25%{clip:rect(81px,9999px,20px,0)}30.0%{clip:rect(86px,9999px,64px,0)}35%{clip:rect(88px,9999px,98px,0)}40%{clip:rect(69px,9999px,6px,0)}45%{clip:rect(24px,9999px,68px,0)}50%{clip:rect(91px,9999px,79px,0)}55.0%{clip:rect(75px,9999px,79px,0)}60.0%{clip:rect(84px,9999px,32px,0)}65%{clip:rect(90px,9999px,2px,0)}70%{clip:rect(42px,9999px,84px,0)}75%{clip:rect(48px,9999px,14px,0)}80%{clip:rect(79px,9999px,91px,0)}85.0%{clip:rect(77px,9999px,6px,0)}90%{clip:rect(99px,9999px,75px,0)}95%{clip:rect(76px,9999px,60px,0)}100%{clip:rect(4px,9999px,50px,0)}}.glitch:before{left:-5px;text-shadow:2px 0 #00f;clip:rect(0,900px,0,0);animation:noise-anim-2 3s infinite linear alternate-reverse}
     </style>
@@ -17,8 +17,8 @@ Content-Type: text/html
   </head>
   <body>
     <div class="wrapper">
-      <div class="glitch" data-text="Error" style="font-size: 168px;">404</div>
-      <div class="glitch" data-text="Not found..">Not found</div>
+      <div class="glitch" data-text="Error" style="font-size: 168px;">400</div>
+      <div class="glitch" data-text="Bad request..">Bad request</div>
     </div>
   </body>
 </html>
