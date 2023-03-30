@@ -18,7 +18,7 @@ Content-Type: text/html
   <body>
     <div class="wrapper">
       <div class="glitch" data-text="Error" style="font-size: 168px;">418</div>
-      <div class="glitch" data-text="Gateway Time-out..">I'm a teapot</div>
+      <div class="glitch" data-text="I'm a teapot..">I'm a teapot</div>
     </div>
   </body>
 </html>
