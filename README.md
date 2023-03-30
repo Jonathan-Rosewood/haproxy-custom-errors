@@ -44,10 +44,25 @@ errorfile 417 /etc/haproxy/errors-custom/417.http
 errorfile 418 /etc/haproxy/errors-custom/418.http
 errorfile 421 /etc/haproxy/errors-custom/421.http
 errorfile 422 /etc/haproxy/errors-custom/422.http
+errorfile 423 /etc/haproxy/errors-custom/423.http
+errorfile 424 /etc/haproxy/errors-custom/424.http
+errorfile 425 /etc/haproxy/errors-custom/425.http
+errorfile 426 /etc/haproxy/errors-custom/426.http
+errorfile 428 /etc/haproxy/errors-custom/428.http
+errorfile 429 /etc/haproxy/errors-custom/429.http
+errorfile 431 /etc/haproxy/errors-custom/431.http
+errorfile 451 /etc/haproxy/errors-custom/451.http
 errorfile 500 /etc/haproxy/errors-custom/500.http
+errorfile 501 /etc/haproxy/errors-custom/501.http
 errorfile 502 /etc/haproxy/errors-custom/502.http
 errorfile 503 /etc/haproxy/errors-custom/503.http
 errorfile 504 /etc/haproxy/errors-custom/504.http
+errorfile 505 /etc/haproxy/errors-custom/505.http
+errorfile 506 /etc/haproxy/errors-custom/506.http
+errorfile 507 /etc/haproxy/errors-custom/507.http
+errorfile 508 /etc/haproxy/errors-custom/508.http
+errorfile 510 /etc/haproxy/errors-custom/510.http
+errorfile 511 /etc/haproxy/errors-custom/511.http
 ```
 # Installation PFSense
 1. Open your HAProxy configration page
