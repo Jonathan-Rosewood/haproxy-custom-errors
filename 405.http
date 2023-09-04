@@ -17,7 +17,7 @@ Content-Type: text/html
 	</head>
 	<body>
 		<div class="wrapper">
-			<div class="glitch" data-text="Error" style="font-size: 168px;">409</div>
+			<div class="glitch" data-text="Error" style="font-size: 168px;">405</div>
 			<div class="glitch" data-text="Method Not Allowed..">Method Not Allowed</div>
 		</div>
 	</body>
